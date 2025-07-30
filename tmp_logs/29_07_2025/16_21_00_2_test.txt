@@ -1,6 +1,0 @@
-Number of questions asked: 2
-Number of questions answered correctly: 1
-Number of questions answered incorrectly: 1
-Number of questions that didn't get answered: 0
-List of all question ids that were answered correctly: [1]
-List of all question ids that were answered incorrectly: [0]

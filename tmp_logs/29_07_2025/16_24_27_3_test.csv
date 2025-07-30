@@ -1,2 +1,0 @@
-num_questions_asked,num_questions_correct,num_questions_incorrect,num_questions_not_answered,correct_question_ids,incorrect_question_ids
-3,2,1,0,"[1, 2]",[0]
